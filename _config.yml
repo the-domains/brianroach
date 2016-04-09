@@ -1,7 +1,7 @@
 name: itsBREX
 favicon: null
-layout_spectrum: 0.2473442442715168
-typography_spectrum: 0.46699566510505974
+layout_spectrum: 0.95923
+typography_spectrum: 0.1474
 title: BREX (Official)
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.9922070330940187
+    - '#241b14'
+    - '#84929b'
+    - '#ebe9ea'
+    - '#b7b1b1'
+    - '#7f7169'
+  brandStrength: 1
   lightness: 0.5442169713787735
-  saturation: 0.28392629721201956
-  rhythmicContrast: 0.23251901543699205
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
