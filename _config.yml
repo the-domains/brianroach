@@ -1,6 +1,6 @@
 name: itsBREX
 favicon: null
-layout_spectrum: 0.09323
+layout_spectrum: 0.72088
 typography_spectrum: 0.1474
 title: BREX (Official)
 cta:
@@ -22,8 +22,8 @@ color:
     - '#0eff00'
     - '#ff2fe1'
     - '#8995ff'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
